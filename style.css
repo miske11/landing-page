@@ -72,3 +72,35 @@ h1 {
     border: 0;
 }
 
+/* second part */
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 46px;
+}
+
+.second-container h2 {
+    text-align: center;
+    margin: 40px 0;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.small-content img {
+    height: 150px;
+    width: auto;
+    border: 3px solid #3882F6;
+    border-radius: 15%;
+}
+
+.small-content {
+    width: 150px;
+    font-size: 18px;
+}
+
+.small-content p {
+    margin: 0;
+}
