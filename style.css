@@ -33,3 +33,42 @@ h1 {
     font-size: 18px;
     color: #E5E7EB;
 }
+
+/* second paragraph */
+
+.first-content img {
+    width: 500px;
+    height: 215px;
+    margin: 90px 12px;
+}
+
+.first-content {
+    display: flex;
+    background-color: #1F2937;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.first-content p {
+    width: 350px;
+    color: white;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.first-content h2 {
+    font-size: 48px;
+    color: #F9FAF8;
+    margin: 0;
+}
+
+.first-content button {
+    background-color: #3882F6;
+    color: white;
+    border-radius: 6px;
+    padding: 4px 16px;
+    font-weight: 700;
+    border: 0;
+}
+
