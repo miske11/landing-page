@@ -104,3 +104,65 @@ h1 {
 .small-content p {
     margin: 0;
 }
+
+.second-container {
+    margin-bottom: 30px;
+}
+
+/* third part */
+
+.third-container {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
+} 
+
+
+#quote {
+    
+    font-size: 36px;
+    color: #1F2937;
+    width: 750px;
+    margin-bottom: 0;
+}
+
+#name {
+    margin-top: 0;
+    display: flex;
+    justify-content: end;
+    align-items: flex-end;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+/* fourth part */
+
+.fourth-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fourth-container .container {
+    background-color: #3882F6;
+    color:#E5E7EB;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 800px;
+    margin: 70px;
+    padding: 20px 50px;
+    border-radius: 8px;
+    font-size: 18px;
+}
+
+.fourth-container button {
+    background-color: #3882F6;
+    color: white;
+    border-radius: 6px;
+    padding: 4px 22px;
+    font-weight: 700;
+    border: 2px solid #E5E7EB;
+}
