@@ -1,6 +1,7 @@
 body {
     display: flex;
     flex-direction: column;
+    margin: 0px;
 }
 
 .header {
@@ -165,4 +166,13 @@ h1 {
     padding: 4px 22px;
     font-weight: 700;
     border: 2px solid #E5E7EB;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color: #E5E7EB;
+    padding: 15px 0;
 }
